@@ -1,2 +1,5 @@
 # hello-world
-first repo
+
+My first repo
+
+i'm starting in development now.
